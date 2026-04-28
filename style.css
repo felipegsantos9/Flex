@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: linear-gradient(120deg, #1e1e1e, #2b2b2b);
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 40px 20px;
+    background: #111;
+
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    color: #aaa;
+}
+
+.intro {
+    margin: 40px 0;
+}
+
+.intro img {
+    width: 250px;
+    border-radius: 15px;
+
+}
+
+
+
+.sobremim {
+    padding: 60px 20px;
+    background: #1a1a1a;
+}
+
+.sobremim h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+
+.sobremim-text {
+    max-width: 500px;
+    text-align: left;
+    line-height: 1.7;
+    font-size: 18px;
+    color: #ccc;
+}
+
+.games {
+    padding: 60px 20px;
+    background: #181818;
+}
+
+.games h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.albums {
+    padding: 60px 20px;
+    background: #1c1c1c;
+}
+
+.albums h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.musicas {
+    padding: 60px 20px;
+    background: #181818;
+}
+
+.musicas h2 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.artists {
+    padding: 40px 20px;
+}
+
+.artists h2 {
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #222;
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+
+}
+
+.card:hover {
+    transform: scale(1.05);
+
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.questoes{
+    padding: 40px 20px;
+}
+
+.questoes h2{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
