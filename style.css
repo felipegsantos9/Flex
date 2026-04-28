@@ -131,3 +131,15 @@ header p {
     margin-bottom: 30px;
     font-size: 30px;
 }
+
+.dados{
+    padding: 40px 20px;
+    background-color: darkslateblue;
+    align-items: center;
+    max-width: 45%;
+}
+
+.dados h2{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
