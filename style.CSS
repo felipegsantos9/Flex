@@ -122,3 +122,12 @@ header p {
     border-radius: 10px;
     margin-top: 10px;
 }
+
+.questoes{
+    padding: 40px 20px;
+}
+
+.questoes h2{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
