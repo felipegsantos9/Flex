@@ -133,19 +133,7 @@ header p {
 }
 .dados{
     padding: 40px 20px;
-    max-width: 705;
-}
-
-.dados h2{
-    margin-bottom: 30px;
-    font-size: 30px;
-}
-
-
-.dados{
-    padding: 60px 20px;
-    background: #181818;
-    max-width: 45%;
+    max-width: 70%;
 }
 
 .dados h2{
